@@ -1,0 +1,1914 @@
+[
+    {
+        "cuahoi": "Một người bán hàng bỏ ra 80,000 đồng tiền vốn và bị lỗ 6%. Để tính số tiền lỗ ta phải tính",
+        "query": "Giả sử số tiền người bán hàng bỏ ra là : x (đồng) và phần trăm bị lỗ là y (%). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "8 dm2 24 cm2 = ……… dm2. Số thích hợp điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "10% của 11,5m2 là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị m2 là y (m2). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Một tam giác có đáy bằng 15 cm và gấp 2,5 lần chiều cao tương ứng. Diện tích tam giác đó là:",
+        "query": "Giả sử kích thước đáy x và đáy gấp chiều cao là y (lần). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Một tấm thiệp hình chữ nhật có chiều rộng bằng 9 cm, chiều dài gấp 2 lần chiều rộng. Vậy điện tích của tấm thiệp đó là:" ,
+        "query": "Giả sử chiều rộng có kích thước x , chiều dài gấp y lần chiều rộng. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "10% của 5dm là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị dm là y (dm). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Một vườn có 500 cây ăn quả, trong đó có 300 cây xoài và 200 cây nhãn. Vậy tỉ số giữa cây xoài và cây nhãn trong vườn là:",
+        "query": "Giả sử số cây trong vườn là x , số cây xoài là y , số cây nhãn là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "10% của 8 dm là",
+        "query": "Giả sử giá trị % là x (%) và giá trị dm là y (dm). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Một xe máy đi quãng đường dài 90km mất 2 giờ 15 phút. Vận tốc của xe máy là:",
+        "query": "giả sử quãng đường xe máy đi là x, thời gian xe máy đó đi là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Một xưởng may đã dùng hết 350 m vải để may quần áo, trong đó số vải may quần chiếm 60%. Vậy số vải may áo là:",
+        "query": "Giả sử số m vải để máy cả quần áo là x , % số vải may quần là y. Hãy trả vê giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Một xưởng may trong tuần thứ nhất thực hiện được 3/8 kế hoạch tháng, tuần thứ hai thực hiện được 3/16 kế hoạch, trong tuần thứ ba thực hiện được 1/3 kế hoạch. Để hoàn thành kế hoạch của tháng thì trong tuần cuối xưởng phải thực hiện bao nhiêu phần kế hoạch?",
+        "query": "Giả sử tuần thứ nhất thực hiện được x kế hoach, tuần thứ hai thực hiện y kế hoach, tuần thứ ba thực hiện z kế hoạch. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "12m2 35dm2 = …… m2. Số thích hợp để điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Mua 10 kg hết 82 000 đồng. Vậy mua 2,5 kg gạo như vậy hết số tiền là:",
+        "query": "Giả sử số kg là x, số tiền trả là y, số kg gạo cần tính tiền là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Mua 12 quyển vở hết 60 000 đồng. Hỏi mua 20 quyển vở như thế hết số tiền là:",
+        "query": "Giả sử số quyển vở là x, số tiền trả là y, số quyển vở cần tính tiền là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "Mua 15 cái bút hết 45 000 đồng. Vậy mua 40 cái bút hết số tiền là:",
+        "query": "Giả sử số bút là x, số tiền trả là y, số bút cần tính tiền là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "My nhặt được 25 vỏ chai nhựa. An mang 4 vỏ chai nhựa ở nhà đưa thêm cho My. Số vỏ chai nhựa My có tất cả là:",
+        "query": "Giả sử số vỏ chai nhặt được là x, số vỏ chai được mang thêm là y.Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "12m7dm = … dm. Số thích hợp điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Nam mua 5 quyển vở và đưa cô bán hàng tờ 100 000 đồng. Cô bán hàng trả lại Nam 35 000 đồng. Vậy mỗi quyển vở Nam mua có giá là:",
+        "query": "Giả sử số vở mua là x, số tiền đưa là y và số tiền được trả lại là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "Năm nay mẹ 36 tuổi, tuổi của con bằng tuổi của mẹ giảm đi 4 lần. Hỏi năm nay con mấy tuổi?",
+        "query": "Giả sử tổi mẹ là x, tuổi con bằng tuổi mẹ giảm đi y lần. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"15 là tổng của:",
+        "query": "Gỉa sử giá trị cần tính tổng là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "Năm nay, An 12 tuổi. Bình ít hơn An 4 tuổi. Số tuổi của Bình là:",
+        "query": "Giả sử tuổi bạn A là x tuổi, bạn B hơn bạn A là y tuổi. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Năm nay, toàn bộ số vải thiều gia đình bác Minh thu hoạch được đã được hai thương lái thu mua hết tại vườn. Thương lái thứ nhất thu mua 5 450 kg vải thiều, thương lái thứ hai thu mua ít hơn thương lái thứ nhất 2 400 kg. Vậy số vải thiều năm nay gia đình bác Minh thu hoạch được là:",
+        "query": "Giả sử người thứ 1 mua x kg, người thứ 2 mua ít hơn người thứ 1 y kg. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Nếu dịch chuyển dấu phẩy của số thập phân sang bên phải một hàng thì số thập phân đó:",
+        "query": "Giả sử dịch chuyển dấu phẩy sang bên x và y hàng. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Nếu ngày 13 tháng 8 là thứ Ba thì ngày 21 tháng 8 là thứ mấy?",
+        "query": "Giả sử thông tin ngày tháng ban đầù là x và thứ tương ứng là y, ngày tháng cần tính là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Nếu ngày 15 tháng 3 là thứ Ba thì ngày 21 tháng 3 là thứ mấy?",
+        "query": "Giả sử thông tin ngày tháng ban đầù là x và thứ tương ứng là y, ngày tháng cần tính là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "Nếu ngày 29 tháng 5 là thứ Hai thì ngày 1 tháng 6 cùng năm đó là:",
+        "query": "Giả sử thông tin ngày tháng ban đầù là x và thứ tương ứng là y, ngày tháng cần tính là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "15% của 320 kg là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị kg là y (kg). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Nếu tăng bán kính của mặt cầu lên 4 lần thì diện tích mặt cầu tăng lên bao nhiêu lần?",
+        "query": "Giả sử bán kính mặt cầu tăng lên x lần. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "Nếu tăng chiều dài và chiều rộng của một hình chữ nhật thêm 8 cm thì chu vi của hình chữ nhật đó tăng thêm là:",
+        "query": "Giả sử chiều dài và chiều rộng tăng thêm x cm. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "Ngày 5 tháng 7 là thứ Sáu thì ngày 10 tháng 7 cùng năm đó là thứ mấy?",
+        "query": "Giả sử thông tin ngày tháng ban đầù là x và thứ tương ứng là y, ngày tháng cần tính là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "15% của 40 là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị càn tính là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Ngày 6 tháng 6 năm 2022 là Thứ Hai. Vậy Thứ Hai tiếp theo của tháng 6 vào ngày nào?",
+        "query": "Giả sử thông tin ngày tháng ban đầù là x và thứ tương ứng là y, thứ tiếp theo cần tính là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "Ngày thứ nhất, bác Thái thu hoạch được 250 kg nhãn. Ngày thứ hai, số ki- lô-gam nhãn bác Thái thu hoạch được đã giảm đi 2 lần so với ngày thứ nhất. Vậy cả hai ngày bác Thái thu hoạch được số ki-lô-gam nhãn là:",
+        "query": "Giả sử ngày 1 thu được x kg, ngày thứ 2 thu được giảm đi y (lần) so với ngày thứ nhất. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Nhà Hiền có 7 con lợn. Số ga nhiều hơn số lợn 63 con. Vậy số gà gấp số lợn là:",
+        "query": "Giả sử số con a là x con, số con b nhiều hơn số con a là y con. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Nhà Hoa có 25 kg gạo. Mẹ Hoa mua thêm 25 kg gạo nữa rồi đóng tất cả số gạo hiện có thành 5 túi như nhau, tặng cho các gia đình khó khăn trong xóm. Mỗi túi gạo cân nặng là:",
+        "query": "Giả sử số gạo ban đầu là x, số gạo mua thêm là y, số túi đã đóng là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "15880 : 63 = ?",
+        "query": "Giả sử biểu thức vế trái được viết thành x : y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi": "Nhân viên y tế mất khoảng 5 phút để tiêm xong vắc-xin cho một người. Bố xếp hàng đợi tiêm lúc 9 giờ 20 phút. Phía trước bố còn 6 người nữ. Vậy bố sẽ được tiêm vắc-xin xong lúc:",
+        "query": "Số phút xử lý cho một người là x, người A đợi lúc y giờ và số người còn phải chờ là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "Phần nguyên của số 1942,54 là:",
+        "query": "Giả sử số cần tìm phần nguyên là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "Phần nguyên của số thập phân 345,128 là:",
+        "query": "Giả sử số cần tìm phần nguyên là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "Phân số $\\frac{15}{1000}$ được viết dưới dạng số thập phân là:",
+        "query": "Giả sử phân số cần chuyển đổi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "Phân số $\\frac{2}{5}$ viết dưới dạng phân số thập phân là:",
+        "query": "Giả sử phân số cần chuyển đổi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"15m2 7dm2 = ….. m2. Số thích hợp điền vào chố chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Phân số $\\frac{3}{25}$ được viết dưới dạng phân số thập phân là:",
+        "query":"Giả sử phân số cần chuyển đổi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Phân số $\\frac{3}{4}$ bằng phân số nào trong các phân số sau?",
+        "query":"Giả sử  phần số xuất hiện trong bài là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Bố an gói 10 cặp bánh chưng, sau đó chia đều cho 5 gia đình có hoàn cảnh khó khăn trong xóm. Số bánh chưng mỗi gia đình nhận được là:",
+        "query":"Giả sử số bánh chưng là x cặp, số gia đình được chia là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"16 giờ 15 phút - 3 giờ 45 phút … 9 giờ 25 phút + 2 giờ 39 phút",
+        "query":"Giả sử  số bị trừ vế trái là x, số trừ vế trái là y, hạng tử thứ nhất vế phải là z, hạng tử thứ hai vế phải là t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Phân số $\\frac{97}{1000}$ viết dưới dạng số thập phân là:",
+        "query":"Giả sử phân số cần chuyển đổi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"16 là tích của hai số nào?",
+        "query":"Giả sử số cần tính tích là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Phân số thập phân $\\frac{205}{100}$ được viết dưới dạng số thập phân là:",
+        "query":"Giả sử phân số cần chuyển đổi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Phân số thập phân “Ba trăm hai mươi tư phần một nghìn” được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x] "
+    },
+    {
+        "cuahoi":"168 phút = … giờ",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển bên phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Phép tính 712,54 - 48,9 có kết quả là:",
+        "query":"Giả sử số bị trừ là x, số trừ là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"18% của 45m2 là:",
+        "query":"Giả sử giá trị % là x (%) và giá trị m2 là y (m2). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Phép tính có kết quả là số liền sau của số nhỏ nhất có hai chữ số giống nhau là:",
+        "query":"Giả sử phép tính có kết quả là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Phép tính có kết quả là số tròn chục là:",
+        "query":"Giả sử phép tính có kết quả là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Phép tính có kết quả nhỏ nhất là:",
+        "query":"Giả sử phép tính có kết quả là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"1m 3 dm = …. cm. Số thích hợp để điền vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Phú Quý là tên một hòn đảo thuộc tỉnh Phan Thiết. Có 30 971 người hiện đang sinh sống trên đảo. Nếu làm tròn số người sinh sống trên đảo đến hàng nghìn, ta có thể nói: số người sinh sống trên đảo Phú Quý khoảng:",
+        "query":"Giả sử số người hiện đang sống là x, làm tròn số người đến hàng y. Hãy trả về gía trị [x,y]"
+    },
+    {
+        "cuahoi":"2 ${\\times}$ 9 + x – 28 + 5 ${\\times}$ 3",
+        "query":""
+    },
+    {
+        "cuahoi":"Sáng nay, ông Bình chạy bộ 30 phút quanh công viên. Khi ông chạy bộ xong, đồng hồ chỉ 6 giờ 15 phút. Vậy ông Bình bắt đầu chạy bộ lúc:",
+        "query":"Giả sử  thời gian bắt đầu chạy là x , thời gian khi chạy xong là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"2 giờ = … phút. Số thích hợp điền vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Sau khi cắt được một lượng lớn cỏ tươi, mẹ dùng quang gánh mang số cỏ đó về nhà cho bò ăn. Mỗi bên quang gánh có khoảng 25 kg cỏ. Mẹ gánh 3 chuyến thì hết số cỏ cắt được. Vậy mẹ cắt được là:",
+        "query":"Giả sử khối lượng mỗi gánh là x, số lượng gánh là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số “bảy mươi mốt nghìn chín trăm ba mươi lăm” viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x] "
+    },
+    {
+        "cuahoi":"Số “chín mươi tư” được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"2 giờ 20 phút chiều còn được gọi là:",
+        "query":"Giả sử số giờ là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số “Hai mươi mốt phẩy tám mươi sáu” viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số “Mười tám phẩy hai trăm ba mươi hai” viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số 0,72 viết dưới dạng tỉ số phần trăm là:",
+        "query":"Giả sử số cần viết dưới dạng tỉ số phần trăm là x. Hãy trả về giá trị [x] "
+    },
+    {
+        "cuahoi":"2 là số dư của phép chia:",
+        "query":"Giả sử x là số dư của phép chia. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số 13 076 làm tròn đến chữ số hàng chục nghìn ta được số:",
+        "query":"Giả sử số cần làm tròn là x , và làm tròn đến hàng y. Hãy trả về gía trị [x,y]"
+    },
+    {
+        "cuahoi":"2 ngày = … giờ?",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Cho biết: 18, 987 = 18 + 0,9 + …. + 0,007\n Số thích hợp để viết vào chỗ chấm là:",
+        "query":"Giả sử kết quả bên trái dấu bằng là x, các hạng tử vế phải lần lượt là y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"2,05 ha = ...........m2",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số 4 trong số thập phân 325,047 thuộc hàng:",
+        "query":"Giả sử số x trong số thập phân y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số 405 đọc là:",
+        "query":"Giả sử số cần đọc là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"2,3 giờ = ..... giờ ... phút?",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển ở vế phải dấu bằng lần lượt là y và z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Số 504 đọc là:",
+        "query":"Giả sử số cần đọc là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"20 giờ tối còn gọi là:",
+        "query":"Giả sử số giờ là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số 689 được viết thành:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số 7,305 đọc là:",
+        "query":"Giả sử số cần đọc là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số 72,06 gấp 10 lần lên ta được:",
+        "query":"Giả sử số x gấp lên y lần. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"20 là tích của hai số nào?",
+        "query":"Giả sử x là tích của hai số . Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số ba mươi nghìn không trăm linh một được viết là:",
+        "query":"Giả sử "
+    },
+    {
+        "cuahoi":"Số bảy trăm linh tư viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số bé nhất có bốn chữ số khác nhau là:",
+        "query":"Giả sử số đó có đặc điểm là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"20 là tích của hai số nào?",
+        "query":"Giả sử  x là tích của hai số. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số bé nhất trong các số 0,56; 0,65; 0,596; 0,559 là:",
+        "query":"Giả sử các số trong dãy trên lần lượt là x, y, z,t.Hãy trả về gía trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Số bé nhất trong các số 7,358; 7,385; 7,538; 7,583 là:",
+        "query":"Giả sử các số trong dãy trên lần lượt là x, y, z,t.Hãy trả về gía trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Số bé nhất trong các số 9,25; 8,25; 7,89; 6,98 là:",
+        "query":"Giả sử các số trong dãy trên lần lượt là x, y, z,t.Hãy trả về gía trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"20% của 250m",
+        "query":"Giả sử giá trị % là x (%) và giá trị m là y (m). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số bị chia là 12, số chia là 2. Vậy thương bằng:",
+        "query":"Giả sử số bị chia là x, số chia là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số bị chia là 40 , số chia là 5. Vậy thương bằng:",
+        "query":"Giả sử số bị chia là x, số chia là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số bị trừ hơn số trừ 8 đơn vị. Vậy hiệu là:",
+        "query":"Giả sử số bị trừ hơn số trừ là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số bị trừ là 63, số trừ là 28. Vậy hiệu bằng:",
+        "query":"Giả sử số bị trừ là x, số trừ là y. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Số bị trừ là số liền sau của số tròn chục lớn nhất có hai chữ số, số trừ là tổng của 37 và 25. Vậy hiệu là:",
+        "query":"Giả sử số bị trừ có đặc điểm là x, và số trừ có đặc điểm là y. Hãy trả về giá trị x,y"
+    },
+    {
+        "cuahoi":"Số bị trừ là số liền trước của 18, số trừ là số lớn nhất có một chữ số. Vậy hiệu là:",
+        "query":"Giả sử số bị trừ có đặc điểm là x, và số trừ có đặc điểm là y. Hãy trả về giá trị x,y"
+    },
+    {
+        "cuahoi":"Số bị trừ là số liền trước của số lớn nhất có hai chữ số khác nhau, số trừ là tổng của 29 và 19. Vậy hiệu là",
+        "query":"Giả sử số bị trừ có đặc điểm là x, và số trừ có đặc điểm là y. Hãy trả về giá trị x,y"
+    },
+    {
+        "cuahoi":"Số bị trừ là số lớn nhất có hai chữ số khác nhau và số trừ là số liền trước của 54. Vậy hiệu là:",
+        "query":"Giả sử số bị trừ có đặc điểm là x, và số trừ có đặc điểm là y. Hãy trả về giá trị x,y"
+    },
+    {
+        "cuahoi":"20% của 450kg là:",
+        "query":"Giả sử giá trị % là x (%) và giá trị kg là y (kg). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số cách chọn 5 học sinh từ 35 học sinh của một lớp là",
+        "query":"Giả sử chọn ra x học sinh từ y học sinh. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số cách chọn ra một nhóm học tập gồm 3 học sinh từ 5 học sinh là",
+        "query":"Giả sử chọn ra x học sinh từ y học sinh. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"2014 dm3 = ...... m3 là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số chia hết cho cả 2 và 5 là:",
+        "query":"Giả sử số chia hết cho cả a và b. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Số chia hết cho cả 2 và 5 là:",
+        "query":"Giả sử số chia hết cho cả a và b. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Số chín mươi ba nghìn sáu trăm linh năm viết là:",
+        "query":"Giả sử số được viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số chín trăm sáu mươi lăm viết là:",
+        "query":"Giả sử số được viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số có chữ số hàng chục nghìn là 5 là:",
+        "query":"Giả sử số có chữ số hàng x là y. hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Số có chữ số hàng nghìn bằng 7 là:",
+        "query":"Giả sử số có chữ số hàng x là y. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"21% của 2014 là:",
+        "query":"Giả sử giá trị % là x (%) và giá trị số là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số có số đơn vị kém số chục 5 đơn vị là:",
+        "query":"Giả sử số có đơn vị kém số chục x đơn vị .hãy trả về giá trị [x] "
+    },
+    {
+        "cuahoi":"23 m2 = ……… ha? Số thích hợp điền vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số dư của phép chia 479 : 47 là: (nếu chỉ lấy đến hai chữ số ở phần thập phân của thương).",
+        "query":"Giả sử số bị chia là x, số chia là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số gồm “Tám và mười hai phần mười bảy” viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 1 chục nghìn 5 nghìn 3 trăm 6 chục được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Diện tích của hình tròn có đường kính d = 5dm là:",
+        "query":"Giả sử đường kích là x dm. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"243 + x = 254 + 142\n Giá trị của x là:",
+        "query":"Giả sử hạng tử thứ nhất vế trái bằng x, hai hạng tử vế phải lần lượt là y,z. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số gồm 2 chục nghìn, 3 nghìn, 8 trăm, 5 chục và hai đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 2 trăm và 7 đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 3 triệu, 5 nghìn, 4 chục và 6 đơn vị được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 4 chục và 2 đơn vị được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"25% số bi của Hùng thì bằng 50% số bi của Hải, biết tổng số bi của Hùng và Hải bằng 48 viên. Số bi của Hùng là:",
+        "query":"Giả sử % số bị của 2 người lần lượt là x và y, tổng bi là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Số gồm 5 trăm và 5 đơn vị đọc là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 6 nghìn, 7 trăm, 2 đơn vị là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 6 trăm và 3 đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"27 : 3 = ? : 8",
+        "query":"Giả sử số bị chia và số chia ở vế trái lần lượt là x, y, số chia ở vế phải là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Số gồm 7 chục và 4 đơn vị được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 8 chục nghìn 3 trăm 2 đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 8 chục nghìn 4 trăm 4 đơn vị được viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 8 chục nghìn 6 nghìn 5 trăm 2 đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 8 trăm và 7 chục viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 8 trăm, 3 chục và 1 đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số gồm 9 chục nghìn, 6 trăm, 7 đơn vị viết là:",
+        "query":"Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"29 km 415 m = … km Số thích hợp để viết vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số hạng thứ nhất là 23. Số hạng thứ hai hơn số hạng thứ nhất 12 đơn vị. Vậy tổng là:",
+        "query":"Giả sử số hạng thứ nhất là x, số thứ hai hơn số thứ nhất là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số hạng thứ nhất là 35, số hạng thứ hai là 21. Vậy tổng là:",
+        "query":"Giả sử số thứ nhất là x, số thứ hai là y. Hãy trả về gía trị [x,y]"
+    },
+    {
+        "cuahoi":"Số hạng thứ nhất là 8. Số hạng thứ hai ít hơn số hạng thứ nhất 3 đơn vị. Vậy tổng là:",
+        "query":"Giả sử số thứ nhất là x, số thứ hai ít hơn số thứ nhất là y. Hãy trả về gía trị [x,y]"
+    },
+    {
+        "cuahoi": "Số La Mã XIX đọc là:",
+        "query":"Giả sử số La Mã cần đọc là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi": "2cm được gấp lên 7 lần có giá trị là:",
+        "query":"Giả sử  x cm được gấp lên y lần .Hãy trả về giá trị của [x,y]"
+    },
+    {
+        "cuahoi": "Số liền sau của 14 là tích của hai số nào?",
+        "query":"Giả sử số liền sau của số x là tích hai số nào đó..Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền sau của 15 là tích của hai số nào?",
+        "query":"Giả sử số liền sau của số x là tích hai số nào đó..Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền sau của 39 là:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền sau của 76 là:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "2cm2 - 48mm2 = …",
+        "query":"Giả sử số bị trừ là x và số trừ là y .Hãy trả về giá trị của [x,y]"
+    },
+    {
+        "cuahoi": "Số liền sau của số 36 là số:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền sau của số 72 389 là:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền sau của số 75 299 là:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền sau của số 99 999 là:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "3 được lấy 4 lần viết dưới dạng tích hai số là:",
+        "query":"Giả sử số x được lấy y lần .Hãy trả về giá trị của [x,y]"
+    },
+    {
+        "cuahoi": "Số liền sau của số tròn trăm lớn nhất có ba chữ số là:",
+        "query":"Giả sử số liền sau của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của 100 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của 60 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của 99 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "3 không phải là thương của hai số nào?",
+        "query": "Giả sử x không phải là thương của hai số nào. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số liền trước của số 50 000 là:",
+        "query":"Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số 54 829 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số 63 là số:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số 67 700 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số 78 540 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số 800 là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số lớn nhất có năm chữ số là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi": "Số liền trước của số lớn nhất có năm chữ số là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"3 và ? được 7",
+        "query": "Giả sử số x  với số ? nào đó thì được số y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số liền trước của số tròn chục nhỏ nhất có ba chữ số là:",
+        "query": "Giả sử số liền trước của số x cần tìm. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số lớn nhất có ba chữ số ghép được từ các số 2, 8, 5, 0 là:",
+        "query": "Giả sử số lớn nhất có x chữ số được ghép từ các số a,b,c,d. Hãy trả về giá trị [x,a,b,c,d]"
+    },
+    {
+        "cuahoi":"3,25 tấn = …… kg. Số thích hợp điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Diện tích xung quanh của hình hộp chữ nhật có chiều dài 1,1m, chiều rộng\n 0,5m và chiều cao 1m là:",
+        "query": "Giả sử hình hộp chữ nhật có chiều dài là x, chiều rộng là y, chiều cao là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"3,2m3 = ... dm3. Số thích hợp viết vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số lớn nhất trong các số 8,09; 7,99; 8,89; 8,9 là:",
+        "query": "Giả sử số lớn nhất cần tìm trong các số x,y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Số lớn nhất trong các số: 12,356; 12,365; 12,563; 12,536 là:",
+        "query": "Giả sử số lớn nhất cần tìm trong các số x,y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"3,3 giờ = .....giờ......phút.",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải lần lượt là là y,z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Số năm trăm hai mươi mốt viết là:",
+        "query": "Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số nào dưới đây có chữ số hàng nghìn là 5?",
+        "query": "Giả sử số nào đó có chữ số hàng x là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"30% của 40 tạ là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị tạ là y (tạ). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số nhỏ nhất là: 6 2 5 4",
+        "query": "Giả sử số nhỏ nhất trong các số x,y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"30% của 80 là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị số là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số nhỏ nhất trong các số 34, 51, 68, 29 là:",
+        "query": "Giả sử số nhỏ nhất trong các số x,y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Số nhỏ nhất trong các số 5,686; 5,676; 5,668; 5,716 là:",
+        "query": "Giả sử số nhỏ nhất trong các số x,y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Số nhỏ nhất trong các số 8,686; 8,676; 8,668; 8,716 là:",
+        "query": "Giả sử số nhỏ nhất trong các số x,y,z,t. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"31, 146, 41, 147, 51, 148, 61, 149, … là:",
+        "query": "Giả sử các số xuất hiện trong dãy số là a,b,c,d,e,f,g,h. Hãy trả về giá trị [a,b,c,d,e,f,g,h]"
+    },
+    {
+        "cuahoi":"Số tám trăm chín mươi tư viết là:",
+        "query": "Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số thập phân “Hai trăm năm mươi sáu phẩy bảy mươi chín” được viết là:",
+        "query": "Giả sử số cần viết là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"35 là số liền sau của:",
+        "query": "Gỉa sử x là số liền sau của số nào đó. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số thập phân gồm “55 đơn vị, 3 phần mười, 5 phần nghìn” được viết là:",
+        "query": "Giả sử số cần viết là x. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số thập phân gồm “Ba trăm linh tám đơn vị, năm phần trăm, chín phần nghìn” được viết là:",
+        "query": "Giả sử số cần viết là x. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số thập phân gồm “ba trăm, năm đơn vị. hai phần mười và tám phần nghìn” được viết là:",
+        "query": "Giả sử số cần viết là x. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"Số thập phân thích hợp điền vào chỗ chấm để 4 tấn 13kg = …….tấn là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thập phân thích hợp điền vào chỗ chấm: 5kg 85g = ………. kg là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp cần điền vào chỗ chấm để 450000cm3 = …….m3 là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"36 + 15 5 ${\\times}$ ? 70 – 21",
+        "query": ""
+    },
+    {
+        "cuahoi":"38mm2 đọc là:",
+        "query": "Giả sử giá trị cần đoc là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"3km 48m = ……..km.",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp để viết vào chỗ chấm của 0,015 tấn = ..........kg là",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp điền vào chỗ chấm 5kg 30g = …….. kg là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp điền vào chỗ chấm để $\\frac{....}{3}=\\frac{35}{21}$ là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"3m 15 cm = ……… cm. Số thích hợp điền vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp điền vào chỗ chấm để 50g = ………. kg là",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp điền vào chỗ chấm: 8ha 25m2 = …….. dam2 là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Hình tròn có bán kính 0,5cm. Chu vi của hình tròn đó là:",
+        "query": "Giả sử hình tròn có bánh kính là x. Hãy trả về giá trị của [x]"
+    },
+    {
+        "cuahoi":"3m2 46dm2 = ……… dm2. Số cần điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thích hợp viết vào chỗ chấm để $\\frac{1}{10}$ phút = ............. giây:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Số thuộc hàng phần trăm trong số thập phân 32,879 là:",
+        "query": "Giả sử số thuộc hàng x trong số thập phân y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"4 giờ 15 phút chiều còn được gọi là:",
+        "query": "Giả sử giá trị cần được gọi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Số tự nhiên n thỏa mãn 2^n = 8 là",
+        "query": "Giả sử biểu thức bên trái dấu = là x, giá trị bên phải dấu bằng là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Sử dụng máy tính bỏ túi, hãy viết giá trị gần đúng của \\pi^2 chính xác đến hàng phần nghìn.",
+        "query": "Giả sử cần tính gần đúng giá trị của x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Sử dụng máy tính bỏ túi, hãy viết giá trị gần đúng của \\sqrt3 chính xác đến hàng phần trăm",
+        "query": "Giả sử cần tính gần đúng giá trị của x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Tam giác ABC có diện tích 40 cm2. Chiều cao AH có độ dài 0,8 dm. Độ dài đáy BC của tam giác ABC là:",
+        "query": "Giả sử diện tích tam giác là x, độ dài tam giác là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"4 là thương của:",
+        "query": "Giả sử số x là thương của hai số nào đó. Hãy trả về giá tị [x,y] "
+    },
+    {
+        "cuahoi":"Thể tích của hình lập phương có cạnh 2,1cm là:",
+        "query": "Giả sử cạnh hình lập phương là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Thể tích của hình lập phương có cạnh 2dm là:",
+        "query": "Giả sử cạnh hình lập phương là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Thể tích của hình lập phương có cạnh 4,5cm là:",
+        "query": "Giả sử cạnh hình lập phương là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"4% của 8000l là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị l là y (l). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Thể tích của hình lập phương có cạnh 9cm là:",
+        "query": "Giả sử cạnh hình lập phương là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Thể tích của hình lập phương có cạnh bằng 3,5cm là:",
+        "query": "Giả sử cạnh hình lập phương là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Thể tích hình lập phương có cạnh 2,5dm là:",
+        "query": "Giả sử cạnh hình lập phương là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Thịt trâu gác bếp là một trong những đặc sản của đồng bào vùng núi Tây Bắc. Để làm được 1 kg thịt trâu gác bếp cần khoảng 2 900 g thịt trâu tươi. Vậy để làm được 3 kg thịt trâu gác bếp, khối lượng thịt trâu tươi cần dùng là:",
+        "query": "Gỉa sử x kg thịt trâu gác bếp thì cần y kg thịt  trâu tươi. Để làm z kg thịt trâu gác bếp. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"40% của 86 là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị số là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Thỏ nặng hơn gà 2 kg. Cân nặng của thỏ là:",
+        "query": "Giả sử con A nặng hơn con B là x (kg). Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Thứ Tư tuần này là ngày 18. Thứ Năm tuần sau là ngày:",
+        "query": "Giả sử thứ x tuần này là ngày y. Nếu là thứ z tuần t thì là ngày nào. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Thứ Tư tuần này là ngày 20. Vậy thứ Tư tuần trước là ngày mấy?",
+        "query": "Giả sử thứ x tuần này là ngày y. Nếu là thứ z tuần sau thì là ngày nào. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"45% của 240m2 là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị m2 là y (m2). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Thương của 67,89 và 0,1 là:",
+        "query": "Giả sử cần tính thương của 2 số x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của $\\frac{3}{4}$ và $\\frac{2}{5}$ là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 1,2 và 2,5 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"47 là hiệu của:",
+        "query": "Giả sử x là hiệu của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 28 và 80 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"5 là thương của hai số nào?",
+        "query": "Giả sử x là thương của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 32 và 50 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 4 và 1000 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 48 và 75 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 54 và 300 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tỉ số phần trăm của 58 và 80 là:",
+        "query": "Giả sử cần tính tỉ số phần trăm của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tích của 14 253 và 3 là:",
+        "query": "Giả sử cần tính tích của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tích của 5 và 6 là số liền sau của:",
+        "query": "Giả sử tích của 2 số x,y là số liền sau của số nào đó. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Tích của 5 và số liền trước số lớn nhất có một chữ số là:",
+        "query": "Giả sử cần tính tích của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"5 là thương của hai số nào?",
+        "query": "Giả sử x là thương của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Tích của 5 và số lớn nhất có một chữ số là:",
+        "query": "Giả sử cần tính tích của x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tiết học Toán bắt đầu lúc 9 giờ 5 phút. Thầy giáo dành 15 phút để kiểm tra bài cũ và 30 phút để dạy bài mới. Vậy tiết học Toán kết thúc lúc:",
+        "query": "Giả sử thời gian bắt đầu là x, thời gian kiểm tra bài cũ là y và thời gian dạy bài mới là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"5 tạ 36 kg = …. kg. Số cần điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tìm số gần đúng của a = 2851275 với độ chính xác d = 300",
+        "query": "Giả sử cần tìm số gần đúng của số x với độ chính xác y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Hương và Hồng hẹn nhau lúc 10 giờ 40 phút sáng. Hương đến chỗ hẹn lúc 10 giờ 20 phút còn Hồng lại đến muộn mất 15 phút. Hỏi Hương phải đợi Hồng trong bao nhiêu lâu?",
+        "query": "Giả sử thời gian hẹn nhau là x, bạn A đến chỗ hẹn lúc y và bạn B đến muộn z .Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"50 : 5 ? : 2 2 ${\\times}$ 4",
+        "query": []
+    },
+    {
+        "cuahoi":"Tìm số gần đúng của a = 5,2463 với độ chính xác d = 0,001.",
+        "query": "Giả sử cần tìm số gần đúng của số x với độ chính xác y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tìm số x sao cho 4,9 ${\\times}$ x = 6,2 ${\\times}$ 9,8",
+        "query": "Giả sử biểu thức bên trái dấu = là x, biểu thức bên phải dấu bằng là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"50 là tích của hai số nào?",
+        "query": "Giả sử x là tích của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"50% của 149kg là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị kg là y (kg). Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"54 ha 45m2 = ……… ha. Số thích hợp cần điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tổng của $92+6+\\frac{5}{100}$ là:",
+        "query": "Giả sử hạng tử thứ nhất có giá trị là x, hạng tử thứ hai là y, hạng thử thứ ba là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Tổng của 34 và 11 là:",
+        "query": "Giả sử cần tính tổng của hai số x và y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tổng của 34,8; 9,5 và 26,7 là:",
+        "query": "Giả sử cần tính tổng của ba số x,y,z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Tổng của 4,8 và 3,27 là:",
+        "query": "Giả sử cần tính tổng của hai số x,y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"58 có số liền trước là:",
+        "query": "Giả sử cần tìm số liền trước của số x.. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Tổng của 7 và 6 là số liền sau của:",
+        "query": "Giả sử tổng của 2 số x,y là số liền sau của số nào đó. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Tổng của 9316 và 254,8 là:",
+        "query": "Giả sử cần tính tổng của hai số x,y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Tổng của số lớn nhất có một chữ số và số liền trước của nó là:",
+        "query": "Giả sử cần tính tổng của hai số x,y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"5kg 23g = ……….kg",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trên bản đồ có ghi tỉ lệ 1 : 1 000, có chiều dài một bồn hoa hình bình hành đo được 12 cm. Chiều dài bồn hoa hình bình hành đó trên thực tế dài số xăng ti mét là:",
+        "query": "Giả sử tỉ lệ là x : y , chiều dài là z cm. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Trên xe buýt có 15 người. Đến điểm dừng có 4 người lên xe. Số người trên xe buýt lúc này là:",
+        "query": "Giả sử hiện có x người và có thêm y người lên xe. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trời bắt đầu lạnh nên bố dẫn An đi mua đệm mới. Cô bán hàng nói các đệm ở cửa hàng đều dài 20 dm và hỏi An muốn mua chiếc đệm rộng bao nhiêu. An chỉ nhớ chu vi của chiếc giường là 68 dm. Để vừa với chiếc giường, An nên mua chiếc đệm có chiều rộng là:",
+        "query": "Giả sử chiều dài là x , chu vi là y . Hãy trả về gía trị [x,y]"
+    },
+    {
+        "cuahoi":"5kg bằng một phần mấy của 20kg?",
+        "query": "Giả sử cần tính x kg bằng bao nhiêu phần của y kg. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong các phân số $\\frac{12}{13}$ ; $\\frac{14}{15}$ ; $\\frac{17}{16}$ ; $\\frac{19}{20}$ phân số có thể đổi thành hỗn số là:",
+        "query": "Giả sử cần xét xem các phần số x, y, z, t có thể đổi thành hỗn số hay không.Hãy trả về giá trị [x,y ,z,t] "
+    },
+    {
+        "cuahoi":"5kg được gấp lên 5 lần có giá trị là:",
+        "query": "Giả sử x kg nếu gấp lên y lần . Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong các phân số sau phân số nào lớn hơn 1:",
+        "query": "Giả sử trong các phân số thì cần tìm phân số lớn hơn x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các phân số: $\\frac{5}{6}$ ; $\\frac{7}{3}$ ; $\\frac{9}{9}$ ; $\\frac{8}{7}$ ; $\\frac{5}{9}$ ; $\\frac{13}{13}$ , phân số lớn hơn 1 là:",
+        "query": "Giả sử cần xét xem các phần số a,b,c,d,e,f phân số nào lớn hơn 1.Hãy trả về giá trị [a,b,c,d,e,f] "
+    },
+    {
+        "cuahoi":"Trong các phép chia dưới đây, phép chia có số dư lớn nhất là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong các phép chia với số chia là 6, số dư lớn nhất của các phép chia đó là:",
+        "query": "Giả sử đang xét các phép chia với số chia là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các phép so sánh sau, phép so sánh đúng là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong các phép tính sau, phép tính có kết quả lớn nhất là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"6 dm2 7 cm2 = …………… cm2. Số cần điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong các phép tính sau, phép tính có kết quả lớn nhất là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong các phép tính sau, phép tính có kết quả nhỏ nhất là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong các phép tính sau, phép tính có kết quả nhỏ nhất là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong các phép tính sau, phép tính có kết quả nhỏ nhất là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong các phép tính sau, phép tính nào có kết quả lớn nhất:",
+        "query": ""
+    },
+    {
+        "cuahoi":"6 gồm:",
+        "query": "Giả sử số x gồm các số nào đó tạo thành. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các số 214, 178, 187, 241. Số bé nhất là:",
+        "query": "Giả sử tìm số bé nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Trong các số 30 768; 43 526; 15 916; 43 000, số nhỏ nhất là:",
+        "query": "Giả sử tìm số nhỏ nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Trong các số 512,37; 439,25; 735,49; 627,54 có chữ số 5 ở hàng phần trăm là:",
+        "query": "Giả sử tìm trong các số a,b,c,d , số nào có chữ số e ở hàng phần trăm. Hãy trả về giá trị [a,b,c,d,e]"
+    },
+    {
+        "cuahoi":"Khoảng thời gian từ 7 giờ 30 phút đến 9 giờ là:",
+        "query": "Giả sử cần tính khoảng thời gian từ x đến y. Hãy trả về giá trị [x,y,]"
+    },
+    {
+        "cuahoi":"6 là kết quả của phép tính nào dưới đây:",
+        "query": "Giả sử số x là kết quả của các phép nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các số đo độ dài sau đây, số đo bằng 41,5 m là:",
+        "query": "Giả sử cần tìm số đo có giá trị bằng số đo x . Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các số đo dưới đây, số đo bằng 12,025 km là:",
+        "query": "Giả sử cần tìm số đo có giá trị bằng số đo x . Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các số sau, chữ số 7 trong số nào có giá trị là $\\frac{7}{100}$?",
+        "query": "Giả sử cần tìm trong các số đã cho, chữ số x có giá trị là y"
+    },
+    {
+        "cuahoi":"6 là thương của hai số nào?",
+        "query": "Giả sử x là thương của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong các số thập phân 30,516; 30,561; 30,651; 30,615. Số thập phân lớn nhất là:",
+        "query": "Giả sử tìm số lớn nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"6 năm 8 tháng + 7 năm 6 tháng = ?",
+        "query": "Giả sử hạng tử thứ nhất là x, hạng tử thứ hai là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong các số: 342, 529, 299, 701 số nhỏ nhất là:",
+        "query": "Giả sử tìm số nhỏ nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"6,13m3 = …lít:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong các số: 62 523,  72 236, 51 425, 62 652, số lớn nhất là:",
+        "query":  "Giả sử tìm số lớn nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Trong các số: 653, 271, 290, 451; số nhỏ nhất là:",
+        "query":  "Giả sử tìm số nhỏ nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Trong các số: 825, 627, 958, 609; số lớn nhất là:",
+        "query": "Giả sử tìm số lớn nhất trong các số x,y,z,t.Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Trong chuồng có cả lợn và gà. An đếm được có 10 cái chân. Số gà nhiều hơn số lợn. Số lợn trong chuồng là:",
+        "query": "Giả sử tổng số chân là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"675 chia cho 6 bằng:",
+        "query": "Giả sử cần tính kết quả của số x chia cho số y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong hộp có 1 quả bóng xanh, 1 quả bóng đỏ, 1 quả bóng vàng. Khi lấy một quả bóng từ trong chiếc hộp thì có mấy khả năng xảy ra:",
+        "query": "Giả sử có x bóng loại một, y bóng loại hai, z bóng loại ba. Hãy trả về giá trị [x,y ,z]"
+    },
+    {
+        "cuahoi":"Trong hộp có 15 cây bút đỏ và 33 cây bút xanh. Tỉ số của số bút xanh và số bút trong hộp là:",
+        "query": "Giả sử có x cây loại một , y câu loại hai. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong kì nghỉ lễ vừa qua, tỉnh Bến Tre đón khoảng 74 000 lượt khách, tỉnh Lào Cai đón khoảng 98 000 lượt khách, tỉnh Kiên Giang đón khoảng 45 000 lượt khách và tỉnh Vĩnh Phúc đón khoảng 80 000 lượt khách. Vậy tỉnh có lượt khách tham quan nhiều nhất là:",
+        "query": "Giả sử tính A có x lượt khách, tỉnh B có y lượt khách , tỉnh C có z lượt khách, tỉnh D có t lượt khách. Hãy trả về giá trị [x,y,z,t]"
+    },
+    {
+        "cuahoi":"Trong mỗi bữa cơm, nhà Mai có 6 người lớn ăn cơm bằng đũa . Để đủ cho mỗi người lớn có một đôi đũa, số chiếc đũa Mai cần lấy là:",
+        "query": "Giả sử có x người ăn cơm  bằng đũa. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong một năm có bao nhiêu tháng có 31 ngày?",
+        "query": "Giả sử trong một năm cầm tìm số tháng có x ngày. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Trong một tuần, nếu hôm nay là thứ ba ngày 20 thì chủ nhật là:",
+        "query": "Giả sử nếu hôm nay là thứ x ngày y , thì thứ z  "
+    },
+    {
+        "cuahoi":"7 ${\\times}$ 5 ? ? ? 5 ${\\times}$ 10",
+        "query": ""
+    },
+    {
+        "cuahoi":"Trong phép tính: 24 – 14 = 10, số trừ là:",
+        "query": "Giả sử phép tính trên được viết thành a – b = c. Hãy trả về giá trị [a,b,c]"
+    },
+    {
+        "cuahoi":"Trong phép tính: 36 + 12 = 48 , 36 + 12 được gọi là:",
+        "query": "Giả sử phép tính trên được viết thành a + b = c. Hãy trả về giá trị [a,b,c]"
+    },
+    {
+        "cuahoi":"Trong phép tính: 63 – 32 = 31, 63 – 32 được gọi là:",
+        "query": "Giả sử phép tính trên được viết thành a – b = c. Hãy trả về giá trị [a,b,c]"
+    },
+    {
+        "cuahoi":"Trong số 28 653, chữ số 6 có giá trị là:",
+        "query": "Giả sử trong số x, thì chữ số y có giá trị. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"7 dm2 8cm2 = …….. cm2. Số thích hợp điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong số 642, giá trị của chữ số 4 gấp giá trị của chữ số 2 là:",
+        "query": "Giả sử trong số x, giá trị của chữ số y gấp giá trị của chữ số z . Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Trong số 67 213, giá trị của chữ số 6 gấp giá trị của chữ số 3 là:",
+        "query": "Giả sử trong số x, giá trị của chữ số y gấp giá trị của chữ số z . Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Trong số 76 235, giá trị của chữ số 7 hơn giá trị của chữ số 6 số đơn vị là:",
+        "query": "Giả sử trong số x, giá trị của chữ số y hơn giá trị của chữ số z . Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Trong số 84 591, chữ số 8 có giá trị là:",
+        "query": "Giả sử trong số x, cần tìm giá trị chữ số y . Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong số 912 345, chữ số 1 có giá trị là:",
+        "query": "Giả sử trong số x, cần tìm giá trị chữ số y . Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong số thập phân 32,469 chữ số 6 thuộc hàng:",
+        "query": "Giả sử trong số thập phân x, chữ số y thuộc hàng. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trong số thập phân 89,3045 số 5 thuộc hàng:",
+        "query": "Giả sử trong số thập phân x, chữ số y thuộc hàng. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"7 tạ 50 kg = ….. kg. Số thích hợp cần điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Trung bình cộng hai số là 160, biết số lớn hơn số bé là 20. Tìm hai số đó.",
+        "query": "Giả sử trung bình cộng là x, số lớn hơn số  bé là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Từ 100 đến 1 000 có tất cả bao nhiêu số tròn trăm?",
+        "query": "Giả sử cần tìm các số tròn trăm từ x đến y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"72 là hiệu của:",
+        "query": "Giả sử x là hiệu của số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Từ 300 đến 400 có tất cả bao nhiêu số tròn chục?",
+        "query": "Giả sử cần tìm các số tròn chục từ x đến y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Từ các số 5, 2, 7, 0, 6 lập được bao nhiêu số có 5 chữ số khác nhau mà chữ số hàng chục của số đó bằng 2 và chữ số hàng đơn vị bằng 6?",
+        "query": "Giả sử từ các số a,b,c,d,e, lập được bao nhiêu số có f chữ số khác nhau mà chữ số hàng chục bằng g, chữ số hàng đơn vị bằng h. Hãy trả về giá trị [a,b,c,d,e,f,g,h]"
+    },
+    {
+        "cuahoi":"Từ các thẻ số 6, 9, 5, 0, 0 có thể ghép được bao nhiêu số tròn trăm có 5 chữ số?",
+        "query": "Giả sử từ các số a,b,c,d,e, lập được bao nhiêu số  tròn trăm có f chữ số "
+    },
+    {
+        "cuahoi":"Tú về quê thăm ông bà từ ngày 26 tháng 5 đến ngày 2 tháng 6. Thời gian Tú về quê với ông bà là:",
+        "query": "Giả sử thời gian về từ x đến y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"720 000cm2 = …m2",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Vì bị ốm nên Mai xin phép cô giáo nghỉ học từ ngày 30 tháng 10 đến hết ngày 1 tháng 11 cùng năm. Số ngày Mai xin nghỉ học là:",
+        "query": "Giả sử thời gian nghỉ từ x đến y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Viết $\\frac{6}{100}$ dưới dạng số thập phân ta được:",
+        "query": "Giả sử phân số cần chuyển đổi là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Một ô tô dự định đi hết quãng đường AB dài 300km. Ô tô đó đi với vận tốc 60km/giờ và đã đi được 212 giờ. Hỏi ô tô đã đi được bao nhiêu phần trăm quãng đường AB?",
+        "query": "Giả sử quãng đường là có độ dài là x. Vận tớc đi là y và đi được z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"75% của 392 là:",
+        "query": "Giả sử giá trị % là x (%) và giá trị số là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Vườn cây ăn quả nhà An có 54 cây bưởi. Bố An trồng thêm 32 cây bưởi nữa. Số cây bưởi nhà An có tất cả là:",
+        "query": "Số cay ban đầu là x, số cây trồng thêm là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Xưởng sản xuất của bác Nam cần lắp đặt 3 000 chiếc ghế. Mỗi chiếc ghế cần dùng 8 chiếc đinh vít nhưng xưởng của bác mới chỉ có 15 700 chiếc đinh vít. Vậy số đinh vít xưởng sản xuất của bác Nam còn thiếu là:",
+        "query": "Giả sử cần lắp x chiếc ghế. Mỗi chiếc ghế cần y chiếc đinh, nhưng mới chỉ có z chiếc đinh. Hãy trả về giá trị [x,y,z] "
+    },
+    {
+        "cuahoi":"7740 : 36 = ?",
+        "query": "Giả sử biểu thức vế trái được viết thành x : y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"78% = …….. Số thích hợp để điền vào chỗ chấm là:",
+        "query": "Giả sử biểu thức bên trái dấu bằng là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"79 là số liền trước của:",
+        "query": "Giả sử x là số liền trước của số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"7cm2 9mm2 = ....... cm2 số thích hợp viết vào chỗ chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"7hm 3dam = ………m. Số thích hợp điền vào chỗ trống là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"8 dm2 15 cm2 = ….. cm2. Số thích hợp để điền vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"8 km2 325 dam2 = …… m2. Số thích hợp điền vào chỗ trống là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"8 là thương của hai số nào?",
+        "query": "Giả sử x là thương của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"8 là tích của hai số nào?",
+        "query": "Giả sử x là tích của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Ngày thứ nhất chú Tài thu mua được 1 350 kg phế liệu, ngày thứ hai thu mua được nhiều hơn ngày thứ nhất 580 kg phế liệu. Vậy sau hai ngày chú Tài thu mua được số ki-lô-gam phế liệu là:",
+        "query": "Giả sử ngày thứ nhất thu được x kg, ngay thứ hai thu được hơn ngày thứ nhất y kg. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"80% của x bằng 400 thì x bằng:",
+        "query": "Giả sử a % của số nào đó bằng b. Hãy trả về giá trị [a,b]"
+    },
+    {
+        "cuahoi":"839 tạ = … tấn là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"84 có số liền sau là:",
+        "query": "Giả sử cần tìm số liền sau của số x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"87 cm2 6 mm2 = … cm2 Số thích hợp để viết vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"9 là thương của hai số nào?",
+        "query": "Giả sử x là thương của hai số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"9 tạ 15kg = ... tạ là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"902 km2 = ............m2. Số thích hợp để viết vào chỗ chấm là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"99 là số liền trước của:",
+        "query": "Giả sử số x là số liền trước của số nào đó. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"9m 2cm = .......cm.",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"9m 6dm = … cm:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"“1 giờ 25 phút = ……..phút”. Số thích hợp điền vào chỗ chấm là:",
+        "query":"Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Nhà An cách nhà Vân 800 m. Nhà Bình ở giữa, cách đều nhà An và nhà Vân. Vậy nhà Bình cách nhà An là:",
+        "query": "Giả sử nhà bạn A cách nhà bạn B là x m. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"An có 24 nhãn vở, An có ít hơn Bình 7 nhãn vở. Hỏi Bình có bao nhiêu nhãn vở?",
+        "query": "Giả sử bạn A có x nhãn vở, bạn A ít hơn bạn B y nhãn bỏ. Hãy trả về gía trị [x,y]"
+    },
+    {
+        "cuahoi":"An có nhiều con tem hình vuông cạnh 2 cm. An muốn xếp các con tem đó lên tấm bìa hình chữ nhật dài 10 cm và rộng 6 cm. Số con tem An có thể xếp lên tấm bìa đó là:",
+        "query": "Giả sử bạn A có tem hình vuông cạnh x cm. Bạn A xếp lên bìa hình chữ nhật có chiều dài y cm và chiều rộng z cm. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"An đang nghĩ đến một số có hai chữ số mà số chục là số lớn nhất có một chữ số và số đơn vị là số nhỏ nhất có một chữ số. Số An đang nghĩ đến là:",
+        "query": ""
+    },
+    {
+        "cuahoi":"An đi khám răng vào ngày 29 tháng 8. Bác sĩ hẹn An đi khám lại ngày 5 tháng 9. Vậy An sẽ đi khám lại sau số ngày là:",
+        "query": "Giả sử thời gian đi khám là x và thời gian hẹn đi khám lại là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"An đọc một quyển sách trong 2 ngày. Ngày thứ nhất An đọc được 1/7 quyển sách, ngày thứ hai An đọc được 3/14 quyển sách. Hỏi trong 2 ngày An đọc được bao nhiêu phần quyển sách?",
+        "query": "Giả sử ngày thứ nhất đọc được x quyển, ngày thứ hai đọc được y quyển. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"An muốn qua nhà Bình để cùng Bình đến chơi nhà Cường. Từ nhà An đến nhà Bình có bốn con đường đi, từ nhà Bình đến nhà Cường có 6 con đường đi. Hỏi An có bao nhiêu cách chọn đường đi đến nhà Cường?",
+        "query":"Giả sử từ nhà bạn A đến nhà bạn B có x con đường, từ nhà B đến nhà c có y con đường. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"An rót nước từ bình ra cốc uống. Mẹ nhắc An cẩn thận vì nước trong bình còn nóng. Nhiệt độ của nước trong bình khoảng:",
+        "query": ""
+    },
+    {
+        "cuahoi":"Anh Sơn chia đều số mật ong thu hoạch được sáng nay vào 6 chai, mỗi chai đựng 1 500 ml mật ong. Vậy số mật ong anh Sơn thu hoạch được sáng nay là:",
+        "query": "Giả sử chia đều vào x chia, mỗi chia đựng y ml. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Anh Sơn đóng tất cả số ngô vừa thu hoạch được vào các bao tải thì được 5 bao to và 1 bao nhỏ. Mỗi bao to cân nặng 30 kg và bao nhỏ cân nặng 15 kg. Vậy anh Sơn thu hoạch được số ki-lô-gam ngô là:",
+        "query": "Giả sử thu hoạch được x bao to và y bao nhỏ. Mỗi bao to cân nặng z kg và mỗi bao nhỏ nặng t kg. Hãy trả về giá trị [x,y, z,t] "
+    },
+    {
+        "cuahoi":"Ba tờ giấy bạc nào dưới đây có tổng số tiền bằng 60 000 đồng?",
+        "query": "Giả sử tổng tiền bằng x đồng. hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Phép chia 81 215 : 3 có số dư là:",
+        "query": "Giả sử cần tìm số dư của phép chia a : b. Hãy trả về giá trị [a,b]"
+    },
+    {
+        "cuahoi":"Ba tờ giấy bạc nào dưới đây có tổng số tiền bằng 60000 đồng",
+        "query": "Giả sử tổng tiền bằng x đồng. hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Bác An gửi tiết kiệm 20 000 000 đồng, sau một năm bác An lấy tiền gốc và lãi là 21 500 000 đồng. Lãi suất của ngân hàng là:",
+        "query":"Giả sử số tiền gửi tiết kiệm là x đồng, tiền gốc và lãi sau một năm là y đồng. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Bác Dậu nhận sửa một con đường. Ngày đầu bác sửa được $\\frac{2}{3}$ con đường. Ngày thứ hai bác sửa được $\\frac{1}{4}$ con đường. Sau hai ngày, bác Dậu còn phải sửa tiếp số phần con đường để xong cả con đường là:",
+        "query": "Giả sử ngày đầu được x con đường ,ngày hai được y con đường. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Bạn Nam mang hai tờ tiền có mệnh giá 10 000 đồng đi mua bút chì. Bạn mua hết 15 000. Bạn Nam còn thừa ...………đồng.",
+        "query": "Giả sử mang x tờ tiền mệnh giá y đồng. Mua hết z đồng .hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Bảo có ít hơn An 15 viên bi. An cho bảo 4 viên. Lúc này, An có nhiều hơn Bảo số viên bi là:",
+        "query": "Giả sử bạn B có ít hơn ban A x viên bị, bạn A cho bạn B y viên. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Bây giờ là 16 giờ kém 10 phút. An và bố dự định cùng nhau đi thả diều khoảng 50 phút, sau đó sẽ về nhà. Vậy An và bố sẽ về nhà lúc:",
+        "query": "Giả sử bây giờ là x , dự định thơi gian thả diều là y . Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết 25% của một số bằng 250. Vậy 18% của số đó là:",
+        "query": "Giả sử x % của một số bằng y. Cần tính z % của số đó. hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Biết 40% của M là 8. Vậy giá trị của M là:",
+        "query": "Giả sử x % của một số bằng y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết 75% của một bao gạo là 37,5 kg gạo. Hỏi $\\frac{3}{5}$ bao gạo đó là bao nhiêu kg?",
+        "query": "Giả sử x % của một bao gạo bằng y. Cần tính z của bao gạo  đó. hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Số bị chia là 40, số chia là 5. Vậy thương bằng:",
+        "query": "Giả sử số bị chia là x, số chia là y.Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết 95% của một số là 475, vậy $\\frac{1}{5}$ của số đó là:",
+        "query": "Giả sử x % của một số bằng y. Cần tính z  của số đó. hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi":"Biết hiệu bằng 17 500, số trừ bằng 40 500, số bị trừ là:",
+        "query": "Giả sử hiệu bằng x, số trừ bằng y. Hãy trả về [x,y]"
+    },
+    {
+        "cuahoi":"Biết hiệu bằng 3 525, số bị trừ bằng 6 370, số trừ là:",
+        "query": "Giả sử hiệu bằng x, số bị trừ bằng y. Hãy trả về [x,y]"
+    },
+    {
+        "cuahoi":"Biết hiệu là 245, số trừ là 162, số bị trừ là:",
+        "query": "Giả sử hiệu bằng x, số trừ bằng y. Hãy trả về [x,y]"
+    },
+    {
+        "cuahoi":"Biết hiệu là 3 400, số bị trừ là số nhỏ nhất có 5 chữ số, số trừ là:",
+        "query": "Giả sử hiệu bằng x, số bị trừ bằng y. Hãy trả về [x,y]"
+    },
+    {
+        "cuahoi":"Biết hiệu là 78, số bị trừ là 419, số trừ là:",
+        "query":"Giả sử hiệu bằng x, số bị trừ bằng y. Hãy trả về [x,y]"
+    },
+    {
+        "cuahoi":"Biết một số gồm năm mươi nghìn, hai nghìn, sáu trăm và 7 đơn vị. Số đó là:",
+        "query": "Giả sử số có đặc điểm là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Biết một số gồm: Tám nghìn, không trăm, ba đơn vị. Số đó được viết là:",
+        "query": "Giả sử số có đặc điểm là x. Hãy trả về giá trị [x]"
+    },
+    {
+        "cuahoi":"Biết số bé bằng 7 và số bé bằng 1/3 số lớn. Số lớn bằng:",
+        "query": "Giả sử số bé bằng x và số bé bằng y số lớn. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết số hạng thứ nhất là 8 000, tổng là 25 900, số hạng thứ hai là:",
+        "query": "Giả sử số hạng thứ nhất là x, tổng là y. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Số thích hợp điền vào chỗ chấm để ‘2,1 ha = ……m2” là:",
+        "query": "Giả sử giá trị cần chuyển đổi bên trái dấu = là x, đơn vị cần chuyển đổi vế phải là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết số lớn hơn số bé 50 đơn vị và số bé bằng 2/7 số lớn. Tổng hai số là:",
+        "query": "Giả sử số lớn hơn số bé x và số bé bằng y số lớn . Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết thừa số thứ nhất là 6, tích là 12 120, thừa số thứ hai là:",
+        "query": "Giả sử thừa số thứ nhất là x, tích là y. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Biết thừa số thứ nhất là 6, tích là 42, thừa số thứ hai là:",
+        "query": "Giả sử thừa số thứ nhất là x, tích là y. Hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Biết thương bằng 4, số bị chia bằng 87 224, số chia là:",
+        "query": "Giả sử thương bằng x, số bị chia bằng y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết thương bằng 8 400, số chia bằng 7, số bị chia là:",
+        "query": "Giả sử thương bằng x, số  chia bằng y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết thương là 6, số chia là 1 200, số bị chia là:",
+        "query": "Giả sử thương bằng x, số  chia bằng y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết thương là 6, số chia là 6 600, số bị chia là:",
+        "query": "Giả sử thương bằng x, số  chia bằng y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết thương là 7, số chia là 4, số bị chia là:",
+        "query": "Giả sử thương bằng x, số  chia bằng y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết tổng của hai số bằng 18, tỉ số giữa số thứ nhất và số thứ hai là 45. Giá trị của một phần bằng nhau là:",
+        "query": "Giả sử tổng hai số là x, tỉ số của số thứ nhất và số thứ hai là y. Hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết x – 38,75 = 206,99. Giá trị của x là:",
+        "query": "Giả sử biểu thức bên trái dấu = là a, giá trị bên phải dấu bằng là b. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Thể tích của hình lập phương có cạnh 3,2cm là:",
+        "query": "Giả sử hình lập phương có cạnh a. hãy trả về giá trị [a] "
+    },
+    {
+        "cuahoi":"Biết x : 7 = 45 692. Giá trị của x là:",
+        "query": "Giả sử biểu thức bên trái dấu = là a, giá trị bên phải dấu bằng là b. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Biết x + 3,55 = 78,3. Giá trị của x là:",
+        "query": "Giả sử biểu thức bên trái dấu = là a, giá trị bên phải dấu bằng là b. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Bố An gói 10 cặp bánh chưng, sau đó chia đều cho 5 gia đình có hoàn cảnh khó khăn trong xóm. Số bánh chưng mỗi gia đình nhận được là:",
+        "query": "Giả sứ gói x cặp bánh và chia cho y gia đình. hãy trả về giá trị [x,y] "
+    },
+    {
+        "cuahoi":"Bố hơn con 30 tuổi. Tuổi con bằng $\\frac{1}{6}$ tuổi bố. Hỏi bố bao nhiêu tuổi?",
+        "query": "Giả sử bố hơn con là x tuổi và con bằng y tuổi  bố. hãy trả về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Bố Minh có một ao cá dạng hình vuông có cạnh dài 65 m. Bố dự định trồng một số cây vải xung quanh ao, các cây sẽ cách đều 5m. Vậy số cây bưởi bố Minh có thể trồng nhiều nhất là:",
+        "query": "Giả sử cạnh hình vuông là x, cách cây cách đều là y. hãy tra về giá trị [x,y]"
+    },
+    {
+        "cuahoi":"Bò nặng 2 tạ, con lợn nặng 2 yến, con hà mã nặng 2 tấn. Khẳng định sai là:",
+        "query": "Giả sử con đầu có cân nặng là x, con thứ hai có cân nặng là y, con thứ ba có cân nặng là z. Hãy trả về giá trị [x,y,z]"
+    },
+    {
+        "cuahoi": "\"Bốn bạn làm bài kiểm tra. Mai làm hết $\\\\frac{2}{3}$ giờ, Lan làm hết $\\\\frac{1}{2}$ giờ, Huệ làm hết $\\\\frac{2}{5}$ giờ, Thảo làm hết 26 phút. Bạn làm bài nhanh nhất là:\"",
+        "query":""
+    },
+    {
+        "cuahoi":"Buổi sáng, Nam học ở trường là từ 8 giờ đến 11 giờ. Vậy thời gian Nam học ở trường là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cả ngày xe đạp A đi được 7676m và xe đạp B đi được 8km. Hỏi quãng đường của xe đạp A hay xe đạp B đi được dài hơn?",
+        "query":
+    },
+    {
+        "cuahoi":"Các bạn của tổ Một xếp thành một hàng dọc, mỗi bạn cách nhau 2m. Bạn đứng đầu cách bạn đứng cuối 18 m. Tổ Một có số bạn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Trong phép chia dưới đây phép chia nào có thương lớn nhất?",
+        "query":
+    },
+    {
+        "cuahoi":"Các góc nội tiếp chắn nửa đường tròn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các ngôi nhà trong khu phố nơi An và Bình sống nằm sát nhau. Mỗi ngôi nhà rộng 6 m. Nhà An cách nhà Bình 8 ngôi nhà. Vậy khoảng cách từ nhà An đến nhà Bình là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các ngôi nhà trong khu phố nơi Hà và An được xây sát nhau. Mỗi ngôi nhà rộng 4 m. Nhà Hà cách nhà An 9 ngôi nhà. Vậy khoảng cách từ nhà Hà đến nhà An là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 11, 7, 20, 15 sắp xếp theo thứ tự từ bé đến lớn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 12, 54, 37, 68 sắp xếp theo thứ tự từ bé đến lớn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 23, 31, 17, 43 được viết theo thứ tự từ lớn đến bé là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 3, 5, 1, 7 sắp xếp theo thứ tự từ lớn đến bé là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 31, 11, 42, 19 được viết theo thứ tự từ bé đến lớn là",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 35, 26, 51, 33 sắp xếp theo thứ tự tăng dần là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 51, 28, 64, 90 sắp xếp theo thứ tự từ lớn đến bé là:",
+        "query":
+    },
+    {
+        "cuahoi":"Trong số thập phân 109,354, chữ số 5 thuộc hàng nào?",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 65, 24, 80, 59 sắp xếp theo thứ tự giảm dần là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 65, 43, 27, 50 sắp xếp theo thứ tự tăng dần là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 7249, 7429, 7924, 7942 được xếp theo thứ tự từ bé đến lớn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 73, 19, 42, 77 được sắp xếp theo thứ tự từ bé đến lớn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số 8, 1, 4, 7 sắp xếp theo thứ tự từ bé đến lớn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số cần điền tiếp vào dãy sau: 45 000; 46 000; ……..; ……..; ……… là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số được sắp xếp theo thứ tự từ lớn đến bé là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số nguyên tố nhỏ hơn 10 là:",
+        "query":
+    },
+    {
+        "cuahoi":"Các số ở dòng nào được viết theo thứ tự từ lớn đến bé?",
+        "query":
+    },
+    {
+        "cuahoi":"Các số thích hợp điền vào ô trống là:",
+        "query":
+    },
+    {
+        "cuahoi":"Trong số thập phân 86, 324 chữ số 3 thuộc hàng nào?",
+        "query":
+    },
+    {
+        "cuahoi":"Các tháng có 30 ngày là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cách đọc của 150cm2 là",
+        "query":
+    },
+    {
+        "cuahoi":"Cách viết tập hợp nào sau đây là đúng?",
+        "query":
+    },
+    {
+        "cuahoi":"Căn bậc hai số học của 4 là",
+        "query":
+    },
+    {
+        "cuahoi":"Căn hộ của nhà An ở tầng 4 của tòa chung cư. Cầu thang bộ dẫn lên mỗi tầng đều có 24 bậc thang. Để lên được căn hộ của nhà mình từ tầng 1, số bậc thang An cần leo là:",
+        "query":
+    },
+    {
+        "cuahoi":"Can nhỏ đựng 3 l mật ong, can to đựng gấp 6 lần can nhỏ. Vậy can to đựng số lít mật ong là:",
+        "query":
+    },
+    {
+        "cuahoi":"Can thứ nhất có 18 l dầu. Số dầu ở can thứ hai gấp 3 lần số dầu ở can thứ nhất. Hỏi can thứ hai nhiều hơn can thứ nhất bao nhiêu lít dầu?",
+        "query":
+    },
+    {
+        "cuahoi":"Cạnh của hình lập phương gấp lên 2 lần thì thể tích được gấp lên:",
+        "query":
+    },
+    {
+        "cuahoi":"Cạnh hình vuông có chu vi 96cm là",
+        "query":
+    },
+    {
+        "cuahoi":"Châu có 10 000 đồng. Châu mua hai quyển vở, giá mỗi quyển vở là\n 4500 đồng. Hỏi Châu còn lại bao nhiêu tiền? ",
+        "query":
+    },
+    {
+        "cuahoi":"Từng gói đường cân nặng lần lượt là:3080g; 3kg 800g ; 3,8kg ; 3,008kg. Gói đường cân nhẹ nhất là:",
+        "query":
+    },
+    {
+        "cuahoi":"Chị Lan mua 3 kg xoài và đưa cô bán hàng 100 000 đồng. Mỗi ki-lô- gam xoài có giá 31 800 đồng. Cô bán hàng làm tròn đến hàng nghìn số tiền chị Lan cần trả. Vậy cô bán hàng cần trả lại chị Lan số tiền là:",
+        "query":
+    },
+    {
+        "cuahoi":"Chia 45 lít nước vào 9 chai. Mỗi chai đựng số lít nước là:",
+        "query":
+    },
+    {
+        "cuahoi":"Chia đều 1 thanh gỗ dài 8,32m thành 4 đoạn thẳng bằng nhau. Tính độ dài mỗi đoạn gỗ ( Làm tròn kết quả đến hàng phần mười)",
+        "query":
+    },
+    {
+        "cuahoi":"Chiếc lọ thuỷ tinh khi đựng đầy mật ong thì cân nặng 2 kg. Khi lượng mật ong trong lọ giảm đi một nửa thì chiếc lọ cân nặng 1 100 g. Cân nặng của chiếc lọ thuỷ tỉnh đó là:",
+        "query":
+    },
+    {
+        "cuahoi":"Chiều dài 30m, chiều rộng 15 m. Chu vi của một hình chữ nhật là:",
+        "query":
+    },
+    {
+        "cuahoi":"Chiều dài của hình chữ nhật có diện tích tích bằng diện tích của hình vuông có cạnh bằng 32cm và chiều rộng bằng 16cm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho $\\frac{7}{11}=\\frac{.....}{55}$ . Số thích hợp để điền vào ô trống là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho ? : 926 + 15 = 38 : 2. Số điền vào dấu ? là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho 1 ... 3 số cần điền chỗ chấm là",
+        "query":
+    },
+    {
+        "cuahoi":"Cho 1 + 1 = …. số cần điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"\"6 m =...... mm\". Số thích hợp điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho 11,32 : 0,01 = ……. Số cần điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho 2 + 3 = …. Số cần điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho 9 … Số cần điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho bảng thống kê sau: \n Địa điểm Hà Nội Sapa Cà Mau\n Nhiệt độ 38 oC 20 oC 30 oC. \n Quan sát bảng số liệu và cho biết nhiệt độ ở Hà Nội cao hơn nhiệt độ ở Sapa bao nhiêu độ C?",
+        "query":
+    },
+    {
+        "cuahoi":"Cho bảng thống kê sau:\n Địa điểm Nhiệt độ\n Hà Nội 38 oC\n Sapa 20 oC\n Cà Mau 30 oC\n Quan sát bảng số liệu và cho biết nhiệt độ ở Hà Nội cao hơn nhiệt độ ở Sapa bao nhiêu độ C?",
+        "query":
+    },
+    {
+        "cuahoi":"Cho biểu thức A = 2810 + 1173 x 5. Số dư trong phép chia A : 7 là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho biểu thức: (b + 481) × 2 = 1000. Giá trị của b là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho biểu thức: 152 + 364. Giao hoán của biểu thức là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho bốn chữ số 0;1;2;3. Tổng của số lớn nhất có bốn chữ số khác nhau và số bé nhất có bốn chữ số khác nhau tạo thành từ các chữ số đã cho có giá trị là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các đoạn thẳng AB = 4cm; MN = 5cm; EF = 3cm; PQ = 8cm; IK = 7cm . Sắp xếp độ dài các đoạn thẳng theo thứ tự tăng dần?",
+        "query":
+    },
+    {
+        "cuahoi":"“2 thế kỉ = ……..năm”. Số thích hợp điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"$\\frac{1}{4}$ giờ = ….. phút. Số thích hợp cần điền vào chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các số 1,5,6,7 có thể lập được bao nhiêu số tự nhiên có 4 chữ số với các chữ số khác nhau:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các số 168367, 954823, 819349, 497234, 193788, 897312, 827173. Có bao nhiêu số trong các số trên mà chữ số 3 đứng ở hàng trăm?",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các số 2; 4; 6; …..; …..; …..; …..; 16; 18; 20. Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các số 5; 10; 15; …..; …..; …..; …..; 40; 45; 50. Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các số 50; 45; 40; …..; …..; …..; …..; 15; 10; 5. Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho các số: 350 452 163; 10 580 211; 35 680 450; 101 225 378. Thứ tự từ bé đến lớn là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số 2; 4; 6; 8; ...; ...; ...; ....; 18; 20. \n Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số 3, 6, 9, 12, …, …, …, …, 27, 30. Các số thích hợp điền vào chỗ chấm lần lượt là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số 5; 10; 15; 20; …..; …..; ….; …..; 45; 50. Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số: 54 600, 54 700, 54 800, …, …, …, 55 200, 55 300. Các số thích hợp điền vào chỗ chấm lần lượt là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số: 6, 12, 18, 24, …. Các số thích hợp điền vào chỗ chấm lần lượt là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số: 60, 54, 48, 42, …, …, …, …, 12, 6. Các số thích hợp điền vào chỗ chấm lần lượt là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho dãy số: 8, 16, 24, 32, …, …, …, …, 72, 80. Các số thích hợp điền vào chỗ chấm lần lượt là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho đoạn thẳng AB = 24cm. Nếu giảm độ dài đoạn thẳng đó đi 6 lần thì được đoạn thẳng CD. Độ dài đoạn thẳng CD là:",
+        "query":
+    },
+    {
+        "cuahoi":"ho đoạn thẳng AB = 4cm. Gấp đoạn thẳng AB lên 3 lần được đoạn thẳng CD. Độ dài đoạn thẳng CD bằng:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho đoạn thẳng PQ = 40cm, có M là trung điểm của đoạn PQ, N là trung điểm của đoạn thẳng MQ. Độ dài đoạn thẳng MN là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho đường gấp khúc ABCDE có độ dài các cạnh AB=BC=13cm, CD=15cm, DE=19cm. Vậy độ dài đường gấp khúc ABCDE dài …..dm.",
+        "query":
+    },
+    {
+        "cuahoi":"Cho đường thẳng ai nằm trên mp\\left(O\\right), đường thẳng b cắt \\left(O\\right) tại O và O không thuộc a. Vị trí tương đối của ai và b là",
+        "query":
+    },
+    {
+        "cuahoi":"Cho P = 210 : 6 + 270 : 6 và Q = 112 : 4 + 184 : 4. Dấu thích hợp để điền vào chỗ chấm P … Q là:",
+        "query":
+    },
+    {
+        "cuahoi":"Cho phép chia 357 : 19,8. Nếu thương chỉ lấy đến hai chữ số phần thập phân thì số dư của phép chia đó là:",
+        "query":
+    }
+]
